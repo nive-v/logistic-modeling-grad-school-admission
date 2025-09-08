@@ -69,7 +69,7 @@ The goal is to build a **logistic regression model** to analyze how **GRE scores
 
 ## File Structure  
 - Graduate_School_Admission.csv # Dataset
-- Logistic_Regression.ipynb # Model building & analysis notebook
+- Logistic_Regression_Grad_School.ipynb # Model building & analysis notebook
 - README.md
 
 ## Author  
