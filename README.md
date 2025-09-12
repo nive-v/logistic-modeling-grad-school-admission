@@ -56,7 +56,7 @@ The goal is to build a **logistic regression model** to analyze how **GRE scores
 - numpy  
 - scikit-learn  
 - statsmodels  
-- matplotlib / seaborn  
+- matplotlib/seaborn
 
 ---
 

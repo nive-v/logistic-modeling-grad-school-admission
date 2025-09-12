@@ -1,0 +1,14 @@
+# PyCharm project files
+.idea/
+*.iml
+
+# Virtual environment
+venv/
+.venv/
+
+# Python-specific compiled files
+__pycache__/
+*.pyc
+
+# Other common ignores
+.DS_Store
